@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Main Page
-st.sidebar.title("WhatsApp Chat Analyser")
+st.sidebar.title("Whatsapp Chat scrutiny tool ")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
